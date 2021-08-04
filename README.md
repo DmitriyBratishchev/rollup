@@ -1,1 +1,2 @@
-# rollup
+npm run build
+npm run start
